@@ -18,6 +18,8 @@ document.getElementById("result").innerHTML=`
 
 <p><b>Name:</b> ${data.name}</p>
 
+<p><b>Date of Birth:</b> ${data.dob}</p>
+
 <p><b>Gender:</b> ${data.gender}</p>
 
 <p><b>Caste:</b> ${data.caste}</p>
