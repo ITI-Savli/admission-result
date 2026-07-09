@@ -18,7 +18,7 @@ document.getElementById("result").innerHTML=`
 
 <p><b>Gender:</b> ${data.gender}</p>
 
-<p><b>Application:</b> ${data.application}</p>
+<p><b>Registraion No.:</b> ${data.application}</p>
 
 <p><b>Trade:</b> ${data.trade}</p>
 
