@@ -32,7 +32,7 @@ document.getElementById("result").innerHTML=`
 
 <p><b>Rank:</b> ${data.rank}</p>
 
-<p><b>Status:</b> ${data.status}</p>
+<p><b>Caste Rank:</b> ${data.casterank}</p>
 
 `;
 
