@@ -16,7 +16,7 @@ document.getElementById("result").innerHTML=`
 
 <p><b>Name:</b> ${data.name}</p>
 
-<p><b>Father:</b> ${data.father}</p>
+<p><b>Gener:</b> ${data.gender}</p>
 
 <p><b>Application:</b> ${data.application}</p>
 
