@@ -14,11 +14,13 @@ document.getElementById("result").innerHTML=`
 
 <h2>Admission Result</h2>
 
+<p><b>Registraion No.:</b> ${data.application}</p>
+
 <p><b>Name:</b> ${data.name}</p>
 
 <p><b>Gender:</b> ${data.gender}</p>
 
-<p><b>Registraion No.:</b> ${data.application}</p>
+<p><b>Caste:</b> ${data.caste}</p>
 
 <p><b>Trade:</b> ${data.trade}</p>
 
