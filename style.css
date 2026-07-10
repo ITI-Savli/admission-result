@@ -62,3 +62,20 @@ text-align:left;
     color:#555;
     font-family:Arial, sans-serif;
 }
+
+.top-message{
+    width:100%;
+    background:#0066cc;
+    color:#fff;
+    padding:10px 0;
+    font-size:16px;
+    font-weight:bold;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1000;
+}
+
+.container{
+    margin-top:80px;
+}
