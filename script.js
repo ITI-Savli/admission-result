@@ -1,5 +1,7 @@
 function searchResult(){
 
+alert("સદર પરિણામમાં ફેરફાર હોઈ શકે છે. તેથી તેની ખરાઈ આઈ. ટી. આઈ. ખાતે અવશ્ય કરવી.");
+
 let appNo=document.getElementById("appNo").value;
 
 fetch("https://script.google.com/macros/s/AKfycbzpMD7iFAFz2S1QcL8U0SJPu8i38bwaRZDnggqCpdumOSMLICkqrvsj0GKvyAa2dijA/exec?appNo="+encodeURIComponent(appNo))
